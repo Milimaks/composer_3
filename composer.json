@@ -1,0 +1,16 @@
+{
+    "name": "maxime.faure/composer_3",
+    "autoload": {
+        "psr-4": {
+            "MaximeFaure\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MAxime"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
